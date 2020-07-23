@@ -1,7 +1,7 @@
 # FIR-Filter
 An implementation of a FIR Filter on an STM32F4 microcontroller
 
-The STM32F429 Discovery Board microcontroller was used.
+The STM32F429 microcontroller was used.
 The signal was generated using the C in-built *sin* function.
 
 ## Filter Characteristics:
